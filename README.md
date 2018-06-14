@@ -69,4 +69,6 @@ python wd.py
 
 * [CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)
 * [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+* [Deep Forest](https://github.com/kingfengji/gcForest)
+
 
